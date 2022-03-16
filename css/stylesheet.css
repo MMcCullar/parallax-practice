@@ -1,0 +1,67 @@
+/*.text {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(240, 248, 255, 0.466);
+    padding: 15px;
+}
+
+.text2 {
+    position: fixed;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(240, 248, 255, 0.466);
+    padding: 15px;
+} 
+*/
+
+.parallax-header {
+    background: #000;
+    background: url(/img/brandon-paul-2nsUkSqX2lw-unsplash.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-content{
+    padding: 100px 0 150px 0;
+}
+
+.box2 {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(240, 248, 255, 0.466);
+    padding: 15px;
+  }
+
+.box3 {
+    position: absolute;
+    top: 125%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(240, 248, 255, 0.466);
+    padding: 15px;    
+}
+
+.box4 {
+    position: absolute;
+    top: 175%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(240, 248, 255, 0.466);
+    padding: 15px;
+}
+
+.box5 {
+    position: absolute;
+    top: 225%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(240, 248, 255, 0.466);
+    padding: 15px;
+}
