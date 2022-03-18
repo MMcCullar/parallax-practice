@@ -35,27 +35,27 @@ body, html {
   
   }
   .bgimg-1 {
-    background-image: url("/img/brandon-paul-2nsUkSqX2lw-unsplash.jpg");
+    background-image: url("../img/brandon-paul-2nsUkSqX2lw-unsplash.jpg");
     min-height: 100%;
   }
   
   .bgimg-2 {
-    background-image: url("/img/joey-banks-YApiWyp0lqo-unsplash.jpg");
+    background-image: url("../img/joey-banks-YApiWyp0lqo-unsplash.jpg");
     min-height: 400px;
   }
   
   .bgimg-3 {
-    background-image: url("/img/meritt-thomas-BwBxVVdlpYE-unsplash.jpg");
+    background-image: url("../img/meritt-thomas-BwBxVVdlpYE-unsplash.jpg");
     min-height: 400px;
   }
   
   .bgimg-4 {
-    background-image: url("/img/paul-habres-oDEA2rzF-7U-unsplash.jpg");
+    background-image: url("../img/paul-habres-oDEA2rzF-7U-unsplash.jpg");
     min-height: 400px;
   }
   
   .bgimg-5 {
-    background-image: url("/img/tyler-clemmensen-Zs_L-plsZzg-unsplash.jpg");
+    background-image: url("../img/tyler-clemmensen-Zs_L-plsZzg-unsplash.jpg");
     min-height: 400px;
   }
   
